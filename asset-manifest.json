@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/phatphuong/static/css/main.bca473ef.chunk.css",
-    "main.js": "/phatphuong/static/js/main.c170a2e3.chunk.js",
-    "main.js.map": "/phatphuong/static/js/main.c170a2e3.chunk.js.map",
+    "main.js": "/phatphuong/static/js/main.766fbd14.chunk.js",
+    "main.js.map": "/phatphuong/static/js/main.766fbd14.chunk.js.map",
     "runtime-main.js": "/phatphuong/static/js/runtime-main.01bb9b53.js",
     "runtime-main.js.map": "/phatphuong/static/js/runtime-main.01bb9b53.js.map",
-    "static/js/2.3a92e1df.chunk.js": "/phatphuong/static/js/2.3a92e1df.chunk.js",
-    "static/js/2.3a92e1df.chunk.js.map": "/phatphuong/static/js/2.3a92e1df.chunk.js.map",
+    "static/js/2.407aa4dc.chunk.js": "/phatphuong/static/js/2.407aa4dc.chunk.js",
+    "static/js/2.407aa4dc.chunk.js.map": "/phatphuong/static/js/2.407aa4dc.chunk.js.map",
     "index.html": "/phatphuong/index.html",
     "static/css/main.bca473ef.chunk.css.map": "/phatphuong/static/css/main.bca473ef.chunk.css.map",
-    "static/js/2.3a92e1df.chunk.js.LICENSE.txt": "/phatphuong/static/js/2.3a92e1df.chunk.js.LICENSE.txt",
+    "static/js/2.407aa4dc.chunk.js.LICENSE.txt": "/phatphuong/static/js/2.407aa4dc.chunk.js.LICENSE.txt",
     "static/media/1.edb888e0.jpg": "/phatphuong/static/media/1.edb888e0.jpg",
     "static/media/2.3d5834ed.jpg": "/phatphuong/static/media/2.3d5834ed.jpg",
     "static/media/3.29964c6d.jpg": "/phatphuong/static/media/3.29964c6d.jpg",
@@ -18,7 +18,6 @@
     "static/media/6.708a9749.jpg": "/phatphuong/static/media/6.708a9749.jpg",
     "static/media/QR-Phat.8b2fd1f1.png": "/phatphuong/static/media/QR-Phat.8b2fd1f1.png",
     "static/media/QR-Phuong.dc178e7b.png": "/phatphuong/static/media/QR-Phuong.dc178e7b.png",
-    "static/media/YeuLaCuoi-PhatHoX2X-7084519.770570d8.mp3": "/phatphuong/static/media/YeuLaCuoi-PhatHoX2X-7084519.770570d8.mp3",
     "static/media/index.css": "/phatphuong/static/media/where-1.72bfde4a.jpg",
     "static/media/anhdoi.68c99e16.jpg": "/phatphuong/static/media/anhdoi.68c99e16.jpg",
     "static/media/logo.c89c62cf.png": "/phatphuong/static/media/logo.c89c62cf.png",
@@ -29,8 +28,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.01bb9b53.js",
-    "static/js/2.3a92e1df.chunk.js",
+    "static/js/2.407aa4dc.chunk.js",
     "static/css/main.bca473ef.chunk.css",
-    "static/js/main.c170a2e3.chunk.js"
+    "static/js/main.766fbd14.chunk.js"
   ]
 }

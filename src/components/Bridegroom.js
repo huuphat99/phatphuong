@@ -54,7 +54,7 @@ function Bridegroom() {
           >
             <h3 className="oliven-couple-title">Sẽ cưới vào ngày </h3>
             <h4 className="oliven-couple-subtitle">
-              15/03/2024 — Liên Hiệp, Phúc Thọ, Hà Nội
+              31 / 03 / 2024 — Liên Hiệp, Phúc Thọ, Hà Nội
             </h4>
           </div>
         </div>

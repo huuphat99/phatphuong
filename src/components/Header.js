@@ -10,7 +10,7 @@ function Header() {
               Hữu Phát & Linh Phương
             </h1>
             <h5 className="animate-box" data-animate-effect="fadeInUp">
-              15 December, 2021 – Hà Nội
+              31 / 03 / 2024 – Hà Nội
             </h5>
           </div>
         </div>

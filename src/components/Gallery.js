@@ -45,6 +45,72 @@ function Gallery() {
               </div>
             </div>
           </div>
+          <div className="col-md-4 gallery-item ceremony">
+            <div
+              className="img-zoom"
+              data-bs-toggle="modal"
+              data-bs-target="#exampleModal"
+              onClick={handleClick}
+            >
+              <div className="gallery-box">
+                <div className="gallery-img">
+                  {" "}
+                  <img
+                    src={gallery1}
+                    className="img-fluid mx-auto d-block"
+                    alt=""
+                  />{" "}
+                </div>
+                <div className="gallery-detail">
+                  <h4 className="mb-0">Tiệc cưới nhà Phát ^^</h4>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4 gallery-item ceremony">
+            <div
+              className="img-zoom"
+              data-bs-toggle="modal"
+              data-bs-target="#exampleModal"
+              onClick={handleClick}
+            >
+              <div className="gallery-box">
+                <div className="gallery-img">
+                  {" "}
+                  <img
+                    src={gallery1}
+                    className="img-fluid mx-auto d-block"
+                    alt=""
+                  />{" "}
+                </div>
+                <div className="gallery-detail">
+                  <h4 className="mb-0">Tiệc cưới nhà Phát ^^</h4>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4 gallery-item ceremony">
+            <div
+              className="img-zoom"
+              data-bs-toggle="modal"
+              data-bs-target="#exampleModal"
+              onClick={handleClick}
+            >
+              <div className="gallery-box">
+                <div className="gallery-img">
+                  {" "}
+                  <img
+                    src={gallery1}
+                    className="img-fluid mx-auto d-block"
+                    alt=""
+                  />{" "}
+                </div>
+                <div className="gallery-detail">
+                  <h4 className="mb-0">Tiệc cưới nhà Phát ^^</h4>
+                </div>
+              </div>
+            </div>
+          </div>
           <div className="col-md-4 gallery-item party">
             <div
               className="img-zoom"

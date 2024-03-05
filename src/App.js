@@ -19,10 +19,10 @@ function App() {
         <Bridegroom />
         <Countdown />
         <Story />
-        <Seeyou />
         <Organization />
         <Gallery />
         <Where />
+        <Seeyou />
         <RSVP />
         <Footer />
       </div>

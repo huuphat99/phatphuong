@@ -7,7 +7,7 @@ function Countdown () {
             minute = second * 60,
             hour = minute * 60,
             day = hour * 24;
-      let birthday = "Mar 15, 2024 00:00:00",
+      let birthday = "Mar 31, 2024 00:00:00",
           countDown = new Date(birthday).getTime(),
           x = setInterval(function() {    
             let now = new Date().getTime(),
@@ -37,6 +37,7 @@ function Countdown () {
         <div className='row'>
           <div className='section-head col-md-12'>
             <h4>Save the date</h4>
+            <h4>31 / 03 / 2024</h4>
           </div>
         </div>
         <div className='row'>

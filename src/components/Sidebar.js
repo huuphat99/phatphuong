@@ -19,9 +19,9 @@ function Sidebar () {
           <a href='/'>
             <img src={Logo} alt='' />
             <span>
-              Olivia <small>&</small> Enrico
+              Hữu Phát <small>&</small> Linh Phương
             </span>
-            <h6>15.11.2021</h6>
+            <h6>31/03/2024</h6>
           </a>
         </div>
         <nav className='oliven-main-menu'>
@@ -52,7 +52,7 @@ function Sidebar () {
           <p>
             Lễ thành hôn 
             <br />
-            15 / 03 / 2024, Hà Nội
+            31 / 03 / 2024, Hà Nội
           </p>
         </div>
       </aside>

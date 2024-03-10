@@ -12,7 +12,7 @@ function Gallery() {
     setModalImageSrc(imageSrc);
   };
   return (
-    <div id="gallery" className="section-padding">
+    <div id="gallery" className="section-padding bg-pink">
       <div className="container">
         <div className="row">
           <div className="col-md-12 mb-30">

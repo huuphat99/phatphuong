@@ -84,40 +84,63 @@ function Header() {
         aria-labelledby="exampleModalLabel"
         aria-hidden="true"
       >
-        <div class="modal-dialog modal-dialog-centered">
-          <div class="modal-content">
-            <div class="modal-header border-0">
-              <button
-                type="button"
-                class="btn-close"
-                data-bs-dismiss="modal"
-                aria-label="Close"
-              ></button>
-            </div>
-            <div class="modal-body">
-              <h5>Làm tí nhạc cho nó có tí không khí không nhỉ?</h5>
-            </div>
-            <div class="modal-footer border-0">
-              <button
-                type="button"
-                class="btn btn-secondary p-2"
-                data-bs-dismiss="modal"
-                style={{ fontSize: 13 }}
-              >
-                Cook
-              </button>
-              <button
-                type="button"
-                class="btn btn-primary p-2"
-                onClick={() => {
-                  playAudio();
-                  setPlay(!play);
-                }}
-                data-bs-dismiss="modal"
-                style={{ fontSize: 13 }}
-              >
-                Nghe luôn
-              </button>
+        <div class="modal-dialog modal-fullscreen">
+          <div class="modal-content background-popup">
+            <div class="modal-body d-flex justify-content-center align-items-center">
+              <div>
+                <h5 className="text-popup">
+                  Làm tí nhạc cho nó có tí không khí không nhỉ?
+                </h5>
+
+                <div
+                  className="mt-5 d-flex justify-content-center"
+                  style={{ gap: 20 }}
+                >
+                  <a data-bs-dismiss="modal" class="button button--pen">
+                    <div class="button__wrapper">
+                      <span class="button__text">Không</span>
+                    </div>
+                    <div class="characterBox">
+                      <div class="character wakeup">
+                        <div class="character__face"></div>
+                        <div class="charactor__face2"></div>
+                      </div>
+                      <div class="character wakeup">
+                        <div class="character__face"></div>
+                        <div class="charactor__face2"></div>
+                      </div>
+                      <div class="character">
+                        <div class="character__face"></div>
+                        <div class="charactor__face2"></div>
+                      </div>
+                    </div>
+                  </a>
+
+                  <a
+                    onClick={() => {
+                      playAudio();
+                      setPlay(!play);
+                    }}
+                    data-bs-dismiss="modal"
+                    class="button button--piyo"
+                  >
+                    <div class="button__wrapper">
+                      <span class="button__text">Nghe</span>
+                    </div>
+                    <div class="characterBox">
+                      <div class="character wakeup">
+                        <div class="character__face"></div>
+                      </div>
+                      <div class="character wakeup">
+                        <div class="character__face"></div>
+                      </div>
+                      <div class="character">
+                        <div class="character__face"></div>
+                      </div>
+                    </div>
+                  </a>
+                </div>
+              </div>
             </div>
           </div>
         </div>

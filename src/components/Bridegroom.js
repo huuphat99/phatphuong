@@ -1,4 +1,6 @@
 import React from "react";
+import Bride from "../assets/images/phat.jpg";
+import Groom from "../assets/images/phuong.jpg";
 function Bridegroom() {
   return (
     <div id="couple" className="bridegroom clear section-padding bg-pink">
@@ -9,7 +11,7 @@ function Bridegroom() {
           <div className="d-flex">
             <div className="w-50 d-flex align-items-center">
               <img
-                src="https://cdn.biihappy.com/ziiweb/website/64c1cd63229536be250cff58/4c66f96d92838fa22302b6cd9a16eac0.jpeg"
+                src={Bride}
                 alt=""
               />
             </div>
@@ -51,7 +53,7 @@ function Bridegroom() {
             </div>
             <div className="w-50 d-flex align-items-center">
               <img
-                src="https://cdn.biihappy.com/ziiweb/website/64c1cd63229536be250cff58/ba65a9e4fc11f7f65d55fa0f8e12af9a.jpeg"
+                src={Groom}
                 alt=""
               />
             </div>

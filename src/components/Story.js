@@ -124,7 +124,7 @@ function Story() {
                       </div>
                       <div class="img-holder">
                         <img
-                          src="https://cdn.biihappy.com/ziiweb/website/64c1cd63229536be250cff58/11e458b9b8abfce6643e6fca099f52ca.jpeg"
+                          src={storyImage}
                           alt=""
                         />
                       </div>
@@ -132,7 +132,7 @@ function Story() {
                     <li>
                       <div class="img-holder img-holder-hideinmobile">
                         <img
-                          src="https://cdn.biihappy.com/ziiweb/website/64c1cd63229536be250cff58/779d6902404ecfe7672397ecce01413e.jpeg"
+                          src={storyImage}
                           alt=""
                         />
                       </div>
@@ -152,7 +152,7 @@ function Story() {
                       </div>
                       <div class="img-holder img-show-hideinmobile">
                         <img
-                          src="https://cdn.biihappy.com/ziiweb/website/64c1cd63229536be250cff58/779d6902404ecfe7672397ecce01413e.jpeg"
+                          src={storyImage}
                           alt=""
                         />
                       </div>
@@ -172,7 +172,7 @@ function Story() {
                       </div>
                       <div class="img-holder">
                         <img
-                          src="https://cdn.biihappy.com/ziiweb/website/64c1cd63229536be250cff58/55d8aef4f4eb48730cbd6f9d0b21e70f.jpeg"
+                          src={storyImage}
                           alt=""
                         />
                       </div>
@@ -180,7 +180,7 @@ function Story() {
                     <li>
                       <div class="img-holder img-holder-hideinmobile">
                         <img
-                          src="https://cdn.biihappy.com/ziiweb/website/64c1cd63229536be250cff58/24683f400e29914ea6ca24c4c2db6c5a.jpeg"
+                          src={storyImage}
                           alt=""
                         />
                       </div>
@@ -203,7 +203,7 @@ function Story() {
                       </div>
                       <div class="img-holder img-show-hideinmobile">
                         <img
-                          src="https://cdn.biihappy.com/ziiweb/website/64c1cd63229536be250cff58/24683f400e29914ea6ca24c4c2db6c5a.jpeg"
+                          src={storyImage}
                           alt=""
                         />
                       </div>
@@ -221,7 +221,7 @@ function Story() {
                       </div>
                       <div class="img-holder">
                         <img
-                          src="https://cdn.biihappy.com/ziiweb/website/64c1cd63229536be250cff58/33a4d5e26777054ebafc4d1d9d360c2f.jpeg"
+                          src={storyImage}
                           alt=""
                         />
                       </div>
@@ -229,7 +229,7 @@ function Story() {
                     <li>
                       <div class="img-holder img-holder-hideinmobile">
                         <img
-                          src="https://cdn.biihappy.com/ziiweb/website/64c1cd63229536be250cff58/0ffc5eac97c3c9c563b33823160b6ea2.jpeg"
+                          src={storyImage}
                           alt=""
                         />
                       </div>
@@ -245,7 +245,7 @@ function Story() {
                       </div>
                       <div class="img-holder img-show-hideinmobile">
                         <img
-                          src="https://cdn.biihappy.com/ziiweb/website/64c1cd63229536be250cff58/0ffc5eac97c3c9c563b33823160b6ea2.jpeg"
+                          src={storyImage}
                           alt=""
                         />
                       </div>

@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import Logo from "../assets/images/logo.png";
 function Sidebar() {
   const [show, setShow] = useState(false);
@@ -8,6 +8,11 @@ function Sidebar() {
     setShow(!show);
     document.body.classList.toggle("slide");
   };
+
+  useEffect(() => {
+    const topScroll = document.querySelector("#homeTop");
+    topScroll.click();
+  }, []);
 
   return (
     <>
@@ -33,7 +38,9 @@ function Sidebar() {
         <nav className="oliven-main-menu">
           <ul>
             <li>
-              <a href="#home">Home</a>
+              <a href="#home" id="homeTop">
+                Home
+              </a>
             </li>
             <li>
               <a href="#couple">Cô dâu - Chú rể</a>

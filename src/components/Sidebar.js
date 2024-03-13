@@ -13,7 +13,7 @@ function Sidebar() {
     setTimeout(() => {
       const topScroll = document.querySelector("#homeTop");
       topScroll.click();
-    }, 2000);
+    }, 500);
   }, []);
 
   return (

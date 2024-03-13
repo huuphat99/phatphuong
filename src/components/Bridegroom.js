@@ -21,7 +21,8 @@ function Bridegroom() {
                     Đỗ Hữu Phát <i className="ti-heart"></i>
                   </h6>{" "}
                   <span>29/10/1999</span>
-                  <p>Chỗ này viết ngắn gọn thôi.</p>
+                  <p>Chàng trai IT với nhiều ước mơ và hoài bão.
+                  Một chàng trai kiên trì, bền bỉ trong mọi quyết định của bản thân. Giao diện “trẻ con” nhưng có hệ điều hành cực kỳ tình cảm, biết lắng nghe và rất yêu thích bộ môn trêu vợ.</p>
                 </div>
               </div>
             </div>
@@ -41,7 +42,9 @@ function Bridegroom() {
                     Chu Thị Linh Phương <i className="ti-heart"></i>
                   </h6>{" "}
                   <span>08/03/1998</span>
-                  <p>Chỗ này cũng viết ngắn gọn thôi.</p>
+                  <p>Cô gái IT Comtor (biên - phiên dịch Tiếng Nhật) , đang học tập và làm việc với vị trí Tester. Là cô gái không thích giậm chân tại chỗ, độc lập và luôn hướng đến mục tiêu do bản thân đặt ra.
+                    Đôi lúc ít nói, nhiều lúc nói không ai bằng.
+                    Thân thiện, hay cười, cực kỳ yêu trẻ con và động vật (đặc biệt là chó)</p>
                 </div>
               </div>
             </div>

@@ -510,7 +510,7 @@ input[type=radio]:checked:before {
     position: relative;
 }
 #oliven-aside {
-    padding: 60px 30px;
+    padding: 60px 5px;
     width: 22%;
     position: fixed;
     bottom: 0;
@@ -524,9 +524,45 @@ input[type=radio]:checked:before {
     transition: 0.5s;
     scrollbar-width: none;
 }
+@media screen and (max-width: 1490px) {
+    #oliven-aside .oliven-logo a span {
+        font-size: 30px !important;
+    }
+}
+
+@media screen and (max-width: 1400px) {
+    #oliven-aside .oliven-logo a span {
+        font-size: 28px !important;
+    }
+}
+@media screen and (max-width: 1300px) {
+    #oliven-aside .oliven-logo a span {
+        font-size: 26px !important;
+    }
+}
+@media screen and (max-width: 1216px) {
+    #oliven-aside .oliven-logo a span {
+        font-size: 24px !important;
+    }
+}
 @media screen and (max-width: 1200px) {
     #oliven-aside {
         width: 30%;
+    }
+#oliven-aside .oliven-logo a span {
+    font-size: 30px !important;
+}
+}
+
+@media screen and (max-width: 1030px) {
+    #oliven-aside .oliven-logo a span {
+        font-size: 26px !important;
+    }
+}
+
+@media screen and (max-width: 826px) {
+    #oliven-aside .oliven-logo a span {
+        font-size: 22px !important;
     }
 }
 @media screen and (max-width: 768px) {
@@ -586,7 +622,7 @@ input[type=radio]:checked:before {
 }
 #oliven-aside .oliven-logo a span {
     display: block;
-    font-size: 36px;
+    font-size: 32px;
     color: #BD945A;
     font-family: 'Alex Brush', cursive;
     font-weight: 400;

@@ -10,8 +10,10 @@ function Sidebar() {
   };
 
   useEffect(() => {
-    const topScroll = document.querySelector("#homeTop");
-    topScroll.click();
+    setTimeout(() => {
+      const topScroll = document.querySelector("#homeTop");
+      topScroll.click();
+    }, 2000);
   }, []);
 
   return (

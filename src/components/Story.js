@@ -3,7 +3,7 @@ import storyImage from "../assets/images/anhdoi.jpg";
 function Story() {
   return (
     <div id="story" className="story section-padding">
-      <div className="container">
+      {/* <div className="container">
         <div className="row">
           <div className="col-md-5 mb-30">
             <div className="story-img animate-box">
@@ -71,7 +71,7 @@ function Story() {
             </p>
           </div>
         </div>
-      </div>
+      </div> */}
 
       <div className="">
         <section class="story-section section-padding" id="story">

@@ -14,6 +14,26 @@ import Where from "./components/Where";
 function App() {
   return (
     <>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
+      <i class="fa-solid fa-heart"></i>
       <Sidebar />
       <div id="oliven-main">
         <Header />

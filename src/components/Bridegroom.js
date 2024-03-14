@@ -23,10 +23,11 @@ function Bridegroom() {
                   </h6>{" "}
                   <span>29/10/1999</span>
                   <p>
-                    Chàng trai IT với nhiều ước mơ và hoài bão. Một chàng trai
-                    kiên trì, bền bỉ trong mọi quyết định của bản thân. Giao
-                    diện “trẻ con” nhưng có hệ điều hành cực kỳ tình cảm, biết
-                    lắng nghe và rất yêu thích bộ môn trêu vợ.
+                  Chàng trai IT - Developer với nhiều ước mơ và hoài bão.
+                  Một chàng trai kiên trì, bền bỉ trong mọi quyết định của bản thân. Giao diện “trẻ con” nhưng có hệ điều hành cực kỳ tình cảm, biết lắng nghe và rất yêu thích bộ môn trêu vợ.
+                  <p>***----------***</p>
+                  * The best thing to hold onto in life is each other.
+                  <p>Tạm dịch: Điều tốt nhất để níu kéo trong cuộc đời là có nhau.</p>
                   </p>
                 </div>
               </div>
@@ -41,12 +42,12 @@ function Bridegroom() {
                   </h6>{" "}
                   <span>08/03/1998</span>
                   <p>
-                    Cô gái IT Comtor (biên - phiên dịch Tiếng Nhật) , đang học
-                    tập và làm việc với vị trí Tester. Là cô gái không thích
-                    giậm chân tại chỗ, độc lập và luôn hướng đến mục tiêu do bản
-                    thân đặt ra. Đôi lúc ít nói, nhiều lúc nói không ai bằng.
-                    Thân thiện, hay cười, cực kỳ yêu trẻ con và động vật (đặc
-                    biệt là chó)
+                  Cô gái IT Comtor (biên - phiên dịch Tiếng Nhật) , đang học tập và làm việc với vị trí Tester. Là cô gái không thích giậm chân tại chỗ, độc lập, chỉnh chu, làm gì cũng có plan rõ ràng
+                  Đôi lúc ít nói, nhiều lúc nói không ai bằng.
+                  Thân thiện, hay cười, cực kỳ yêu trẻ con và động vật (đặc biệt là chó)
+                  <p>***----------***</p>
+                  * To the world you may be one person, but to one person you may be the world.
+                  <p>Tạm dịch: Với thế giới bạn có thể là một người, nhưng với một người, bạn có thể là cả thế giới.</p>
                   </p>
                 </div>
               </div>

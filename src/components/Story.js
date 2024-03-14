@@ -23,33 +23,13 @@ function Story() {
                   <ul>
                     <li>
                       <div class="details">
-                        <h3>Lần đầu gặp gỡ</h3>
-                        <span class="date">2023</span>
+                        <h3>* Lần đầu gặp mặt</h3>
+                        <span class="date">March 2, 2020</span>
                         <p>
-                          Tôi nhớ hôm đó là vào 1 ngày đẹp trời, một cô gái tham
-                          gia vào công ty tôi đang làm và không nghĩ đó lại là
-                          định mệnh của cuộc đời mình. Ấn tượng về cô gái đó
-                          không đến một cách mạnh mẽ như những câu chuyện tình
-                          cảm tôi hay đọc trên mạng mà nó đến từ từ rồi ngấm dần
-                          vào trái tim tôi. Một cô gái nhỏ nhắn, xinh xắn và
-                          cùng quê với tôi. Sau một thời gian làm việc cùng thì
-                          thấy cô gái đó có khá nhiều tài lẻ: hát hay, đàn giỏi
-                          và đặc biệt là khá chăm chỉ, chịu khó lại còn nấu ăn
-                          ngon nữa. Đàn ông chúng ta chắc chắn sẽ bị đánh gục
-                          bởi những cô gái nấu ăn ngon như vậy. Tôi đã chính
-                          thức FALL IN LOVE và bắt đầu theo đuổi cô gái ấy.
-                          <br />
-                          ***----------***
-                          <br />
-                          Lần đầu tiên gặp gỡ <br />
-                          giữa hai ta là ngày em bắt đầu làm việc tại công ty.
-                          Thời gian đầu chưa làm việc nhiều với anh thấy: Anh
-                          hiền, khá chăm chỉ, khó tính, nhìn ghét ghét, tính
-                          cách thì trái ngược em 🙃. Em chưa từng nghĩ sẽ quen
-                          và anh sẽ là người bạn đời của em cả 😵,,...
-                          <br />
-                          Vì thế: “Hãy để tình yêu diễn biến thật tự nhiên, đã
-                          là duyên thì chạy cũng chẳng thoát.”
+                          <p>Tụi mình gặp nhau lần đầu tiên tại công ty NSMV, nơi mà hai đứa đang xin vào làm thực tập.</p>
+                          <p>+ Ấn tượng đầu tiên của mình về cô ấy :………….</p>
+                          <p>+ Ấn tượng đầu tiên của mình về anh ấy : trẻ con, nói nhiều, hay trêu mình, hay nhờ mình dịch tiếng nhật, và bắt mình dạy tiếng nhật. (Hiện tại thì vẫn thế) </p>
+                          
                         </p>
                       </div>
                       <div class="img-holder">
@@ -67,17 +47,10 @@ function Story() {
                         />
                       </div>
                       <div class="details">
-                        <h3>Lời tỏ tình đầu tiên</h3>
-                        <span class="date">2023</span>
+                        <h3>Chúng mình thành một cặp</h3>
+                        <span class="date">June 28, 2020</span>
                         <p>
-                          Mối quan hệ đôi ta chính thức bắt đầu có lẽ nhờ chuyến
-                          đi du lịch định mệnh ấy - trên vùng đất cảng miền Nam
-                          Trung Bộ, Quy Nhơn. Anh và em đã có nhiều cơ hội, thời
-                          gian hơn để trò chuyện, chia sẻ và bày tỏ cùng nhau.{" "}
-                          <br />
-                          Dưới ánh trăng sáng, trên bờ cát trắng, sóng biển rì
-                          rào thì thào anh nói nhỏ: "Mình tìm hiểu nhau nhé". Và
-                          tình yêu của chúng tôi bắt đầu như vậy đó!
+                        Sau chuyến du lịch cùng công ty hồi tháng 6, mình chấp nhận lời hẹn hò từ đằng trai. Và thời gian cứ thế trôi , chúng mình chính thức thành 1 cặp, trong sự ngỡ ngàng ngơ ngác từ các anh - chị - em - bạn bè cùng công ty.
                         </p>
                       </div>
                       <div class="img-holder img-show-hideinmobile">
@@ -89,15 +62,15 @@ function Story() {
                     </li>
                     <li>
                       <div class="details">
-                        <h3>Tháng ngày thử thách</h3>
-                        <span class="date">2023</span>
+                        <h3>Yêu xa có thật sự là thử thách</h3>
+                        <span class="date">Jan 2021 ~ Jan 2022</span>
                         <p>
-                          Thời gian tìm hiểu, yêu và quyết định đi cùng nhau có
-                          lẽ không dài cũng chẳng ngắn. Có rất nhiều lần tưởng
-                          chừng như là dấu chấm hết cho một mối tình. Cãi vã,
-                          giận hờn, bất đồng .... Nhưng bằng tình yêu chân
-                          thành, sự cảm thông thấu hiểu, cương - nhu tuỳ lúc
-                          chúng ta vẫn tiếp tục để cùng nhau sánh bước.
+                        Chúng mình hẹn hò được khoảng 5 tháng thì mình nhận được thông báo sang Nhật thực tập 1 năm. 
+                        Mình khá lo ngại nhưng anh chỉ nói một câu : “Anh đợi em về”
+                        Vậy là chúng mình bắt đầu cuộc hành trình 365 ngày xa nhau.
+                        Một năm có thể không dài nhưng nó vẫn là một thử thách có độ khó nhất định cho cả hai tụi mình.
+                        ……
+                        Và tụi mình đã cùng nhau trải qua thử thách Yêu xa
                         </p>
                       </div>
                       <div class="img-holder">
@@ -115,20 +88,10 @@ function Story() {
                         />
                       </div>
                       <div class="details">
-                        <h3>Lời cầu hôn</h3>
-                        <span class="date">2023-2024</span>
+                        <h3>Phút giây cầu hôn</h3>
+                        <span class="date">March 8, 2024</span>
                         <p>
-                          Ngày tháng bên nhau cho chúng ta nhận ra được rất
-                          nhiều điều. Chúng ta từ 2 con người xa lạ mà bước vào
-                          cuộc đời nhau. Yêu nhau, vun vén hạnh phúc, chia sẻ và
-                          cùng nỗ lực vượt qua những khó khăn trong cuộc sống.
-                          Giây phút anh ngỏ lời “Làm vợ anh nhé!” dưới sự chứng
-                          kiến của mọi người, đặc biệt là anh chị em trong công
-                          ty - nơi chúng ta làm việc, nơi khơi nguồn tình yêu và
-                          từ đây cũng bắt đầu cho cuộc sống mới của hai ta. Vì
-                          sự quan tâm nhẹ nhàng và chân thành của anh, em đã
-                          nguyện ý cùng anh vun vén hạnh phúc thêm nhiều lần 10
-                          năm nữa.
+                        Mình không nhớ là mình từng nói : ”Em muốn được cầu hôn”, chỉ biết là anh đã lắng nghe mong muốn của mình và thực hiện nó vào đúng ngày sinh nhật của mình. Mình cảm thấy rất bất ngờ và vô cùng hạnh phúc 
                         </p>
                       </div>
                       <div class="img-holder img-show-hideinmobile">
@@ -140,13 +103,13 @@ function Story() {
                     </li>
                     <li>
                       <div class="details">
-                        <h3>Dạm ngõ</h3>
-                        <span class="date">2023</span>
+                        <h3>Chúng mình cưới nhau</h3>
+                        <span class="date"> March 31, 2024</span>
                         <p>
-                          Được sự đồng thuận của bố mẹ, họ hàng hai bên gia đình
-                          thì cuối cùng ngày vui của chúng ta cũng tới gần. Cảm
-                          ơn vì mình đã luôn là một phần trong cuộc sống của
-                          nhau.
+                        Vậy là : sau 3 năm - 9 tháng 3 ngày ~ tán tỉnh - hẹn hò - tìm hiểu - yêu xa - gặp lại chúng mình sẽ có một Happy Ending - Một lễ cưới vào 31/3/2024. 
+                        Bắt đầu cho một hành trình cùng nhau xây dựng một gia đình nhỏ xinh, cùng nhau tạo nên những điều tuyệt vời, …
+
+                        Hãy đến ham dự, chung vui cùng tụi mình nhé !
                         </p>
                       </div>
                       <div class="img-holder">

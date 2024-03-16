@@ -1,3 +1,4 @@
+import { useEffect, useState } from "react";
 import Bridegroom from "./components/Bridegroom";
 import Countdown from "./components/Countdown";
 import Footer from "./components/Footer";
@@ -12,114 +13,20 @@ import Video from "./components/Video";
 import Where from "./components/Where";
 
 function App() {
+  const [arr, setArray] = useState([]);
+
+  useEffect(() => {
+    let newArr = [];
+    for (let index = 0; index < 100; index++) {
+      newArr.push(0);
+    }
+    setArray(newArr);
+  }, []);
   return (
     <>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
-      <i class="fa-solid fa-heart"></i>
+      {arr?.map((item, index) => (
+        <i key={index} class="fa-solid fa-heart"></i>
+      ))}
       <Sidebar />
       <div id="oliven-main">
         <Header />

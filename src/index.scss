@@ -1,0 +1,11 @@
+@for $i from 1 through 100 {
+  .fa-heart:nth-child(#{$i}) {
+    $random-position: random() * 92 + 3;
+
+    animation-delay: random() *
+      90s; /* Đặt thời gian trễ ngẫu nhiên từ 0 đến 5 giây */
+    left: percentage(
+      $random-position / 100
+    ); /* Đặt vị trí ngẫu nhiên từ 0% đến 100% */
+  }
+}

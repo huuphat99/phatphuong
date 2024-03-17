@@ -224,7 +224,7 @@ function Gallery() {
         </div>
       </div>
 
-      <div className="container">
+      {/* <div className="container">
         <div className="d-flex justify-content-end">
           <a
             href="https://drive.google.com/drive/folders/1crDx6G_IymSySG8j44q6-MDUHhGknh46"
@@ -234,7 +234,7 @@ function Gallery() {
             See More...
           </a>
         </div>
-      </div>
+      </div> */}
 
       <div
         className="modal fade"

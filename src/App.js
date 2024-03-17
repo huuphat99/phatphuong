@@ -30,9 +30,9 @@ function App() {
       <Sidebar />
       <div id="oliven-main">
         <Header />
-        <Bridegroom />
         <Countdown />
         <Story />
+        <Bridegroom />
         <Organization />
         <Video />
         <Gallery />

@@ -2879,3 +2879,16 @@ body.slide .oliven-nav-toggle {
     .story-section ul li .img-holder-hideinmobile {display: none;}
     .story-section ul li .img-show-hideinmobile{display: block;}
 }
+
+.bg-custom {
+    transform: scale(1);
+    height: 600px;
+}
+
+
+@media screen and (max-width: 1000px) {
+    .bg-custom {
+        transform: unset;
+    }
+    
+}

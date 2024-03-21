@@ -5,7 +5,7 @@ function Header() {
     <header id="home" className="header valign bg-img parallaxie">
       <div className="container">
         <div className="row">
-          <div className="col-md-12 text-center caption">
+          <div className="col-md-12 text-center caption mb-5">
             <h1 className="animate-box" data-animate-effect="fadeInUp">
               Hữu Phát & Linh Phương
             </h1>

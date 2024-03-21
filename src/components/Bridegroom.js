@@ -1,6 +1,6 @@
 import React from "react";
-import Bride from "../assets/images/phat.jpg";
-import Groom from "../assets/images/phuong.jpg";
+import Bride from "../assets/images/profile-phat.jpg";
+import Groom from "../assets/images/profile-codau.jpeg";
 function Bridegroom() {
   return (
     <div id="couple" className="bridegroom clear section-padding bg-pink">
@@ -60,7 +60,7 @@ function Bridegroom() {
             </div>
           </div>
         </div>
-        <div className="row">
+        {/* <div className="row">
           <div
             className="col-md-12 text-center animate-box"
             data-animate-effect="fadeInUp"
@@ -70,7 +70,7 @@ function Bridegroom() {
               31 / 03 / 2024 — Liên Hiệp, Phúc Thọ, Hà Nội
             </h4>
           </div>
-        </div>
+        </div> */}
     </div>
   );
 }

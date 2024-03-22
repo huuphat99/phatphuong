@@ -19,13 +19,14 @@ function RSVP() {
                   className="item toright mb-30 animate-box"
                   data-animate-effect="fadeInLeft"
                 >
-                  <div className="img">
-                    {" "}
-                    <img src={QRPhat} alt="" style={{ height: 218 }} />{" "}
+                  <div className="img" style={{ height: 218 }}>
+                    <img src={QRPhat} alt="" />
                   </div>
                   <div className="info valign">
                     <div className="full-width text-center">
-                      <h4>Đỗ Hữu Phát</h4> <h5>Ngân hàng : Techcombank</h5>
+                      <h4>Đỗ Hữu Phát</h4>
+                      <p>1234567890</p>
+                      <h5>Ngân hàng : Techcombank</h5>
                     </div>
                   </div>
                 </div>
@@ -35,13 +36,13 @@ function RSVP() {
                   className="item mb-30 animate-box"
                   data-animate-effect="fadeInRight"
                 >
-                  <div className="img">
-                    {" "}
-                    <img src={QRPhuong} alt="" style={{ height: 218 }} />{" "}
+                  <div className="img" style={{ height: 218 }}>
+                    <img src={QRPhuong} alt="" />
                   </div>
                   <div className="info valign">
                     <div className="full-width text-center">
                       <h4>Chu Thị Linh Phương</h4>
+                      <p>1234567890</p>
                       <h5>Ngân hàng : Techcombank</h5>
                     </div>
                   </div>

@@ -1161,7 +1161,7 @@ body.slide .oliven-nav-toggle {
 @media all and (max-width: 768px) {
   #countdown li {
     font-size: 12px;
-    padding: 15px;
+    padding: 13px;
   }
   #countdown li span {
     font-size: 60px;
@@ -2754,12 +2754,12 @@ body.slide .oliven-nav-toggle {
   
   @media (min-width: 992px) {
       .story-section ul li img {
-          max-width: 356px;
+          max-width: 300px;
       }
   }
   @media (min-width: 1200px) {
       .story-section ul li img {
-          max-width: 456px;
+          max-width: 350px;
       }
   }
   @media (max-width: 991px) {
@@ -2889,6 +2889,29 @@ body.slide .oliven-nav-toggle {
 @media screen and (max-width: 1000px) {
     .bg-custom {
         transform: unset;
+        background-position: -170px;
     }
     
+}
+
+
+@media screen and (max-width: 768px) {
+    .flex-custom-column {
+        flex-direction: column;
+    }
+    
+    .w-md-100 {
+        width: 100% !important;
+    }
+
+    .order-custom-0 {
+        order: 0;
+    }
+
+    .order-custom-1 {
+        order: 1;
+    }
+    .img{
+        height: unset !important;
+    }
 }

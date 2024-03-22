@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/phatphuong/static/css/main.01e337ea.chunk.css",
-    "main.js": "/phatphuong/static/js/main.0043329a.chunk.js",
-    "main.js.map": "/phatphuong/static/js/main.0043329a.chunk.js.map",
+    "main.css": "/phatphuong/static/css/main.c358df14.chunk.css",
+    "main.js": "/phatphuong/static/js/main.f502651b.chunk.js",
+    "main.js.map": "/phatphuong/static/js/main.f502651b.chunk.js.map",
     "runtime-main.js": "/phatphuong/static/js/runtime-main.01bb9b53.js",
     "runtime-main.js.map": "/phatphuong/static/js/runtime-main.01bb9b53.js.map",
     "static/js/2.3d5817f4.chunk.js": "/phatphuong/static/js/2.3d5817f4.chunk.js",
     "static/js/2.3d5817f4.chunk.js.map": "/phatphuong/static/js/2.3d5817f4.chunk.js.map",
     "index.html": "/phatphuong/index.html",
-    "static/css/main.01e337ea.chunk.css.map": "/phatphuong/static/css/main.01e337ea.chunk.css.map",
+    "static/css/main.c358df14.chunk.css.map": "/phatphuong/static/css/main.c358df14.chunk.css.map",
     "static/js/2.3d5817f4.chunk.js.LICENSE.txt": "/phatphuong/static/js/2.3d5817f4.chunk.js.LICENSE.txt",
     "static/media/1.edb888e0.jpg": "/phatphuong/static/media/1.edb888e0.jpg",
     "static/media/2.3d5834ed.jpg": "/phatphuong/static/media/2.3d5834ed.jpg",
@@ -30,7 +30,7 @@
   "entrypoints": [
     "static/js/runtime-main.01bb9b53.js",
     "static/js/2.3d5817f4.chunk.js",
-    "static/css/main.01e337ea.chunk.css",
-    "static/js/main.0043329a.chunk.js"
+    "static/css/main.c358df14.chunk.css",
+    "static/js/main.f502651b.chunk.js"
   ]
 }

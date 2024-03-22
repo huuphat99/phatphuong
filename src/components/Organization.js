@@ -10,7 +10,7 @@ function Organization() {
         <div className="row">
           <div className="col-md-12 mb-30">
             <span className="oliven-title-meta">Wedding</span>
-            <h2 className="oliven-title">Organization</h2>
+            <h2 className="oliven-title">Các mốc sự kiện</h2>
           </div>
         </div>
         <div
@@ -20,7 +20,7 @@ function Organization() {
         >
           <div className="col-md-3 item-box">
             <h2 className="custom-font numb">01</h2>
-            <h6 className="title">Ceremony</h6>
+            <h6 className="title">Lễ dạm ngõ</h6>
             <p>
               Delta tristiu the jusone duise vitae diam neque nivami mis est
               augue artine aringilla the at elit finibus vivera.
@@ -28,7 +28,7 @@ function Organization() {
           </div>
           <div className="col-md-3 item-box">
             <h2 className="custom-font numb">02</h2>
-            <h6 className="title">Lunch Time</h6>
+            <h6 className="title">Lễ ăn hỏi</h6>
             <p>
               Delta tristiu the jusone duise vitae diam neque nivami mis est
               augue artine aringilla the at elit finibus vivera.
@@ -36,15 +36,7 @@ function Organization() {
           </div>
           <div className="col-md-3 item-box">
             <h2 className="custom-font numb">03</h2>
-            <h6 className="title">Party</h6>
-            <p>
-              Delta tristiu the jusone duise vitae diam neque nivami mis est
-              augue artine aringilla the at elit finibus vivera.
-            </p>
-          </div>
-          <div className="col-md-3 item-box">
-            <h2 className="custom-font numb">04</h2>
-            <h6 className="title">Cake Cutting</h6>
+            <h6 className="title">Lễ thành hôn</h6>
             <p>
               Delta tristiu the jusone duise vitae diam neque nivami mis est
               augue artine aringilla the at elit finibus vivera.

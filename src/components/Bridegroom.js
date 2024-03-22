@@ -32,10 +32,9 @@ function Bridegroom() {
                   29/10/1999
                 </span>
                 <p>
-                  Chàng trai IT - Developer với nhiều ước mơ và hoài bão. Một
-                  chàng trai kiên trì, bền bỉ trong mọi quyết định của bản thân.
-                  Giao diện “trẻ con” nhưng có hệ điều hành cực kỳ tình cảm,
-                  biết lắng nghe và rất yêu thích bộ môn trêu vợ.
+                  Chàng trai IT - Developer với nhiều ước mơ và hoài bão. 
+                  <p>Một chàng trai kiên trì, bền bỉ trong mọi quyết định của bản thân.</p>
+                  Giao diện “trẻ con” nhưng có hệ điều hành cực kỳ tình cảm, biết lắng nghe và rất yêu thích bộ môn trêu vợ.
                   <p>
                     <img src={Heart} style={{ width: 20, height: 20 }} />
                     <img src={Heart} style={{ width: 20, height: 20 }} />
@@ -72,10 +71,10 @@ function Bridegroom() {
                 </span>
                 <p>
                   Cô gái IT Comtor (biên - phiên dịch Tiếng Nhật) , đang học tập
-                  và làm việc với vị trí Tester. Là cô gái không thích giậm chân
-                  tại chỗ, độc lập, chỉnh chu, làm gì cũng có plan rõ ràng Đôi
-                  lúc ít nói, nhiều lúc nói không ai bằng. Thân thiện, hay cười,
-                  cực kỳ yêu trẻ con và động vật (đặc biệt là chó)
+                  và làm việc với vị trí Tester. 
+                  <p>Là cô gái không thích giậm chân tại chỗ, độc lập, chỉnh chu, làm gì cũng có plan rõ ràng.</p>
+                  <p>Đôi lúc ít nói, nhiều lúc nói không ai bằng.</p>
+                  <p>Thân thiện, hay cười, cực kỳ yêu trẻ con và động vật (đặc biệt là chó)</p>
                   <p>
                     <img src={Heart} style={{ width: 20, height: 20 }} />
                     <img src={Heart} style={{ width: 20, height: 20 }} />

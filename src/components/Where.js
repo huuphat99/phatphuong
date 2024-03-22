@@ -9,7 +9,7 @@ function Where() {
         <div className="row">
           <div className="col-md-12 mb-30">
             {" "}
-            <span className="oliven-title-meta">Questions</span>
+            <span className="oliven-title-meta">Thông tin</span>
             <h2 className="oliven-title">Thời gian & Địa điểm</h2>{" "}
           </div>
         </div>
@@ -20,13 +20,12 @@ function Where() {
               <img src={where1} alt="" />
             </div>
             <div className="content">
-              <h5>Tiệc cưới nhà Phát</h5>
+              <h5>Tiệc cưới nhà chú rể</h5>
               <p>
-                <i className="ti-location-pin"></i> Thôn 10, Liên Hiệp, Phúc
-                Thọ, Hà Nội
+                <i className="ti-location-pin"></i> Thôn 10, Liên Hiệp, Phúc Thọ, Hà Nội
               </p>
               <p>
-                <i className="ti-time"></i> <span>12:00am – 13:00pm</span>
+                <i className="ti-time"></i> <span>30/03/2024 - 14h30</span>
               </p>
             </div>
           </div>
@@ -36,13 +35,12 @@ function Where() {
               <img src={where2} alt="" />
             </div>
             <div className="content">
-              <h5>Tiệc cưới nhà Phương</h5>
+              <h5>Tiệc cưới nhà cô dâu</h5>
               <p>
-                <i className="ti-location-pin"></i> Thôn 6, Phù Vân, Phủ Lý, Hà
-                Nam
+                <i className="ti-location-pin"></i> Thôn 6, Phù Vân, Phủ Lý, Hà Nam
               </p>
               <p>
-                <i className="ti-time"></i> <span>14:00pm</span>
+                <i className="ti-time"></i> <span>30/03/2024 - 14h30</span>
               </p>
             </div>
           </div>
@@ -54,11 +52,10 @@ function Where() {
             <div className="content">
               <h5>Lễ thành hôn</h5>
               <p>
-                <i className="ti-direction-alt"></i> Thôn 10, Liên Hiệp, Phúc
-                Thọ, Hà Nội
+                <i className="ti-direction-alt"></i> Thôn 10, Liên Hiệp, Phúc Thọ, Hà Nội
               </p>
               <p>
-                <i className="ti-direction"></i> 12 a.m
+                <i className="ti-direction"></i> 31/03/2024 - 11h30
               </p>
             </div>
           </div>

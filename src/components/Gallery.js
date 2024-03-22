@@ -1,10 +1,13 @@
 import React, { useState } from "react";
-import gallery1 from "../assets/images/1.jpg";
-import gallery2 from "../assets/images/2.jpg";
-import gallery3 from "../assets/images/3.jpg";
-import gallery4 from "../assets/images/4.jpg";
-import gallery5 from "../assets/images/5.jpg";
-import gallery6 from "../assets/images/6.jpg";
+import gallery1 from "../assets/images/h1-1.jpg";
+import gallery2 from "../assets/images/h1-2.jpg";
+import gallery3 from "../assets/images/h1-3.jpg";
+import gallery4 from "../assets/images/h2-1.jpg";
+import gallery5 from "../assets/images/h2-2.jpg";
+import gallery6 from "../assets/images/h2-3.jpg";
+import gallery7 from "../assets/images/h3-1.jpg";
+import gallery8 from "../assets/images/h3-2.jpg";
+import gallery9 from "../assets/images/h3-3.jpg";
 function Gallery() {
   const [modalImageSrc, setModalImageSrc] = useState("");
   const handleClick = (event) => {
@@ -56,79 +59,13 @@ function Gallery() {
                 <div className="gallery-img">
                   {" "}
                   <img
-                    src={gallery1}
-                    className="img-fluid mx-auto d-block"
-                    alt=""
-                  />{" "}
-                </div>
-                <div className="gallery-detail">
-                  <h4 className="mb-0">Tiệc cưới nhà Phát ^^</h4>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4 gallery-item ceremony">
-            <div
-              className="img-zoom"
-              data-bs-toggle="modal"
-              data-bs-target="#exampleModal"
-              onClick={handleClick}
-            >
-              <div className="gallery-box">
-                <div className="gallery-img">
-                  {" "}
-                  <img
-                    src={gallery1}
-                    className="img-fluid mx-auto d-block"
-                    alt=""
-                  />{" "}
-                </div>
-                <div className="gallery-detail">
-                  <h4 className="mb-0">Tiệc cưới nhà Phát ^^</h4>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4 gallery-item ceremony">
-            <div
-              className="img-zoom"
-              data-bs-toggle="modal"
-              data-bs-target="#exampleModal"
-              onClick={handleClick}
-            >
-              <div className="gallery-box">
-                <div className="gallery-img">
-                  {" "}
-                  <img
-                    src={gallery1}
-                    className="img-fluid mx-auto d-block"
-                    alt=""
-                  />{" "}
-                </div>
-                <div className="gallery-detail">
-                  <h4 className="mb-0">Tiệc cưới nhà Phát ^^</h4>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div className="col-md-4 gallery-item party">
-            <div
-              className="img-zoom"
-              data-bs-toggle="modal"
-              data-bs-target="#exampleModal"
-              onClick={handleClick}
-            >
-              <div className="gallery-box">
-                <div className="gallery-img">
-                  {" "}
-                  <img
                     src={gallery2}
                     className="img-fluid mx-auto d-block"
                     alt=""
                   />{" "}
                 </div>
                 <div className="gallery-detail">
-                  <h4 className="mb-0">Tiệc cưới nhà Phương ^^</h4>{" "}
+                  <h4 className="mb-0">Tiệc cưới nhà Phát ^^</h4>
                 </div>
               </div>
             </div>
@@ -150,6 +87,72 @@ function Gallery() {
                   />{" "}
                 </div>
                 <div className="gallery-detail">
+                  <h4 className="mb-0">Tiệc cưới nhà Phát ^^</h4>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4 gallery-item ceremony">
+            <div
+              className="img-zoom"
+              data-bs-toggle="modal"
+              data-bs-target="#exampleModal"
+              onClick={handleClick}
+            >
+              <div className="gallery-box">
+                <div className="gallery-img">
+                  {" "}
+                  <img
+                    src={gallery4}
+                    className="img-fluid mx-auto d-block"
+                    alt=""
+                  />{" "}
+                </div>
+                <div className="gallery-detail">
+                  <h4 className="mb-0">Tiệc cưới nhà Phát ^^</h4>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4 gallery-item party">
+            <div
+              className="img-zoom"
+              data-bs-toggle="modal"
+              data-bs-target="#exampleModal"
+              onClick={handleClick}
+            >
+              <div className="gallery-box">
+                <div className="gallery-img">
+                  {" "}
+                  <img
+                    src={gallery5}
+                    className="img-fluid mx-auto d-block"
+                    alt=""
+                  />{" "}
+                </div>
+                <div className="gallery-detail">
+                  <h4 className="mb-0">Tiệc cưới nhà Phương ^^</h4>{" "}
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="col-md-4 gallery-item ceremony">
+            <div
+              className="img-zoom"
+              data-bs-toggle="modal"
+              data-bs-target="#exampleModal"
+              onClick={handleClick}
+            >
+              <div className="gallery-box">
+                <div className="gallery-img">
+                  {" "}
+                  <img
+                    src={gallery6}
+                    className="img-fluid mx-auto d-block"
+                    alt=""
+                  />{" "}
+                </div>
+                <div className="gallery-detail">
                   <h4 className="mb-0">Lễ thành hôn của mình ^^</h4>{" "}
                 </div>
               </div>
@@ -166,7 +169,7 @@ function Gallery() {
                 <div className="gallery-img">
                   {" "}
                   <img
-                    src={gallery4}
+                    src={gallery7}
                     className="img-fluid mx-auto d-block"
                     alt=""
                   />{" "}
@@ -188,7 +191,7 @@ function Gallery() {
                 <div className="gallery-img">
                   {" "}
                   <img
-                    src={gallery5}
+                    src={gallery8}
                     className="img-fluid mx-auto d-block"
                     alt=""
                   />{" "}
@@ -210,7 +213,7 @@ function Gallery() {
                 <div className="gallery-img">
                   {" "}
                   <img
-                    src={gallery6}
+                    src={gallery9}
                     className="img-fluid mx-auto d-block"
                     alt=""
                   />{" "}
@@ -223,19 +226,6 @@ function Gallery() {
           </div>
         </div>
       </div>
-
-      {/* <div className="container">
-        <div className="d-flex justify-content-end">
-          <a
-            href="https://drive.google.com/drive/folders/1crDx6G_IymSySG8j44q6-MDUHhGknh46"
-            target="_blank"
-            style={{ fontSize: "25px" }}
-          >
-            See More...
-          </a>
-        </div>
-      </div> */}
-
       <div
         className="modal fade"
         id="exampleModal"

@@ -4,7 +4,7 @@ import Groom from "../assets/images/profile-codau.jpeg";
 import Heart from "../assets/images/free-heart.webp";
 function Bridegroom() {
   return (
-    <div id="couple" className="bridegroom clear section-padding bg-pink">
+    <div id="couple" className="bridegroom clear section-padding bg-pink pb-5">
       <div
         className="d-flex flex-column"
         style={{ backgroundColor: "white", padding: "20px 50px" }}

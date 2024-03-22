@@ -2,7 +2,7 @@ import React from "react";
 
 function Video() {
   return (
-    <div id="video" className="section-padding">
+    <div id="video" className="section-padding py-5">
       <div className="container">
         <div className="row">
           <div className="col-md-12 mb-30">

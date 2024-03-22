@@ -916,7 +916,7 @@ body.slide .oliven-nav-toggle {
         background-position: center center;
     }
     .header .caption h1 {
-        font-size: 34px;
+        font-size: 30px;
     }
     .header .caption h5 {
         font-size: 12px;
@@ -1164,7 +1164,7 @@ body.slide .oliven-nav-toggle {
     padding: 13px;
   }
   #countdown li span {
-    font-size: 60px;
+    font-size: 40px;
   }
 }
 
@@ -2913,5 +2913,9 @@ body.slide .oliven-nav-toggle {
     }
     .img{
         height: unset !important;
+    }
+
+    .footer2 h2 a {
+        font-size: 26px;
     }
 }

@@ -93,9 +93,10 @@ Và tụi mình đã cùng nhau trải qua thử thách Yêu xa
                         <h3>Khoảng thời gian anh thực hiện lời hứa </h3>
                         <span class="date">January, 2022 - Now</span>
                         <p>
-                        Do tính chất công việc bên Nhật, nên mình gần như không có thời gian để đi đây đi đó, mình khá buồn, và khi đó anh nói “ Về Việt Nam anh sẽ cho em đi những nơi mà em muốn “ 
-Tháng 1 năm 2022, mình trở về Việt Nam cùng anh thực hiện lời hứa
+                        Do tính chất công việc bên Nhật, nên mình gần như không có thời gian để đi đây đi đó, mình khá buồn, và khi đó anh nói “Về Việt Nam anh sẽ cho em đi những nơi mà em muốn“.
+Tháng 1 năm 2022, mình trở về Việt Nam cùng anh thực hiện lời hứa.
 Anh đã đưa mình đi gần như là tất cả nhũng nơi mình muốn. Chỉ cần mình nói “Tháng sau đi …… chơi đi” - Anh đáp lại : “Lên lịch” . Anh chẳng bận tâm gì, mình bảo đi là anh sẽ cho mình đi.
+Ngoài ra nếu các bạn mà muốn plan đi chơi những điểm kia thì nhắn cho mình 1 tin mình share lịch trình cho nha ^^
                         </p>
                       </div>
                       <div class="img-holder img-show-hideinmobile">

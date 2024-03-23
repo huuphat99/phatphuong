@@ -43,7 +43,7 @@ function Gallery() {
                   />{" "}
                 </div>
                 <div className="gallery-detail">
-                  <h4 className="mb-0">Tiệc cưới nhà Phát ^^</h4>
+                  <h4 className="mb-0">Phát Phương cưới nè ^^</h4>
                 </div>
               </div>
             </div>
@@ -65,7 +65,7 @@ function Gallery() {
                   />{" "}
                 </div>
                 <div className="gallery-detail">
-                  <h4 className="mb-0">Tiệc cưới nhà Phát ^^</h4>
+                  <h4 className="mb-0">Phát Phương cưới nè ^^</h4>
                 </div>
               </div>
             </div>
@@ -87,7 +87,7 @@ function Gallery() {
                   />{" "}
                 </div>
                 <div className="gallery-detail">
-                  <h4 className="mb-0">Tiệc cưới nhà Phát ^^</h4>
+                  <h4 className="mb-0">Phát Phương cưới nè ^^</h4>
                 </div>
               </div>
             </div>
@@ -109,7 +109,7 @@ function Gallery() {
                   />{" "}
                 </div>
                 <div className="gallery-detail">
-                  <h4 className="mb-0">Tiệc cưới nhà Phát ^^</h4>
+                  <h4 className="mb-0">Phát Phương cưới nè ^^</h4>
                 </div>
               </div>
             </div>
@@ -131,7 +131,7 @@ function Gallery() {
                   />{" "}
                 </div>
                 <div className="gallery-detail">
-                  <h4 className="mb-0">Tiệc cưới nhà Phương ^^</h4>{" "}
+                  <h4 className="mb-0">Phát Phương cưới nè ^^</h4>{" "}
                 </div>
               </div>
             </div>
@@ -153,7 +153,7 @@ function Gallery() {
                   />{" "}
                 </div>
                 <div className="gallery-detail">
-                  <h4 className="mb-0">Lễ thành hôn của mình ^^</h4>{" "}
+                  <h4 className="mb-0">Phát Phương cưới nè ^^</h4>{" "}
                 </div>
               </div>
             </div>
@@ -175,7 +175,7 @@ function Gallery() {
                   />{" "}
                 </div>
                 <div className="gallery-detail">
-                  <h4 className="mb-0">Wedding Party</h4>{" "}
+                  <h4 className="mb-0">Phát Phương cưới nè ^^</h4>{" "}
                 </div>
               </div>
             </div>
@@ -197,7 +197,7 @@ function Gallery() {
                   />{" "}
                 </div>
                 <div className="gallery-detail">
-                  <h4 className="mb-0">Wedding Ceremony</h4>{" "}
+                  <h4 className="mb-0">Phát Phương cưới nè ^^</h4>{" "}
                 </div>
               </div>
             </div>
@@ -219,7 +219,7 @@ function Gallery() {
                   />{" "}
                 </div>
                 <div className="gallery-detail">
-                  <h4 className="mb-0">Wedding Party</h4>{" "}
+                  <h4 className="mb-0">Phát Phương cưới nè ^^</h4>{" "}
                 </div>
               </div>
             </div>
@@ -245,9 +245,7 @@ function Gallery() {
             </div>
             <div className="modal-body text-center">
               <img
-                src={modalImageSrc}
-                className="imagepreview"
-                style={{ width: "85%" }}
+                src={modalImageSrc} className="imagepreview" style={{ width: "85%" }}
               />
             </div>
           </div>

@@ -20,27 +20,23 @@ function Organization() {
         >
           <div className="col-md-4 item-box">
             <h2 className="custom-font numb">01</h2>
-            <h6 className="title">Lễ dạm ngõ</h6>
+            <h6 className="title">Lễ dạm ngõ (21/03/2024)</h6>
             <p>
-              Delta tristiu the jusone duise vitae diam neque nivami mis est
-              augue artine aringilla the at elit finibus vivera.
+            Hai bên gia đình gặp gỡ tính chuyện trăm năm
             </p>
           </div>
           <div className="col-md-4 item-box">
             <h2 className="custom-font numb">02</h2>
-            <h6 className="title">Lễ ăn hỏi</h6>
-            <p>
-              Delta tristiu the jusone duise vitae diam neque nivami mis est
-              augue artine aringilla the at elit finibus vivera.
-            </p>
+            <h6 className="title">Lễ ăn hỏi & bữa cơm thân mật (30/03/2024)</h6>
+            <p>09:00 — Tổ chức lễ ăn hỏi</p>
+            <p>16:30 — Bữa cơm thân mật tại nhà chú rể</p>
+            <p>15:30 — Bữa cơm thân mật tại nhà cô dâu</p>
           </div>
           <div className="col-md-4 item-box">
             <h2 className="custom-font numb">03</h2>
-            <h6 className="title">Lễ thành hôn</h6>
-            <p>
-              Delta tristiu the jusone duise vitae diam neque nivami mis est
-              augue artine aringilla the at elit finibus vivera.
-            </p>
+            <h6 className="title">Lễ thành hôn (31/03/2024)</h6>
+            <p>11:30 — Đón tiếp khách mời</p>
+            <p>12:00 — Bắt đầu lễ thành hôn</p>
           </div>
         </div>
       </div>

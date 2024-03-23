@@ -1,7 +1,7 @@
 import React from "react";
-import where1 from "../assets/images/where-1.jpg";
-import where2 from "../assets/images/where-2.jpg";
-import where3 from "../assets/images/where-3.jpg";
+import where1 from "../assets/images/anhngoi1.jpg";
+import where3 from "../assets/images/h3-1.jpg";
+import where2 from "../assets/images/anhphong.jpg";
 function Where() {
   return (
     <div id="whenwhere" className="whenwhere section-padding">

@@ -4,6 +4,8 @@ import dinhat from "../assets/images/dinhat.jpg";
 import dichoi from "../assets/images/dichoi.jpg";
 import cauhon from "../assets/images/cauhon.jpeg";
 import anhcuoi from "../assets/images/anhcuoi.jpg";
+import landau from "../assets/images/landau.jpg";
+import motdoi from "../assets/images/couple.jpg";
 function Story() {
   return (
     <div id="story" className="story section-padding">
@@ -44,12 +46,12 @@ Từ trò chuyện trên công ty - trong các buổi đi chơi với bạn bè 
                         </p>
                       </div>
                       <div class="img-holder">
-                        <img src={storyImage} alt="" />
+                        <img src={landau} alt="" />
                       </div>
                     </li>
                     <li>
                       <div class="img-holder img-holder-hideinmobile">
-                        <img src={storyImage} alt="" />
+                        <img src={motdoi} alt="" />
                       </div>
                       <div class="details">
                         <h3>Chúng mình thành một cặp</h3>
@@ -62,7 +64,7 @@ Và thời gian cứ thế trôi , 28/06/2020 - chúng mình chính thức thàn
                         </p>
                       </div>
                       <div class="img-holder img-show-hideinmobile">
-                        <img src={storyImage} alt="" />
+                        <img src={motdoi} alt="" />
                       </div>
                     </li>
                     <li>
@@ -131,7 +133,7 @@ Bắt đầu cho một hành trình cùng nhau xây dựng một gia đình nh�
                         </p>
                       </div>
                       <div class="img-holder img-show-hideinmobile">
-                        <img src={storyImage} alt="" />
+                        <img src={anhcuoi} alt="" />
                       </div>
                     </li>
                   </ul>

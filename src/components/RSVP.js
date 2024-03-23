@@ -25,7 +25,7 @@ function RSVP() {
                   <div className="info valign">
                     <div className="full-width text-center">
                       <h4>Đỗ Hữu Phát</h4>
-                      <p>1234567890</p>
+                      <p>19034828055014</p>
                       <h5>Ngân hàng : Techcombank</h5>
                     </div>
                   </div>
@@ -42,7 +42,7 @@ function RSVP() {
                   <div className="info valign">
                     <div className="full-width text-center">
                       <h4>Chu Thị Linh Phương</h4>
-                      <p>1234567890</p>
+                      <p>19038160656016</p>
                       <h5>Ngân hàng : Techcombank</h5>
                     </div>
                   </div>

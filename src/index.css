@@ -1266,7 +1266,6 @@ body.slide .oliven-nav-toggle {
 }
 .organization .item-box {
   padding: 60px 30px;
-  height: 100%;
   background-color: #fff;
   border: 1px solid #F6F1F0;
   border-right: 0;
@@ -2920,4 +2919,8 @@ body.slide .oliven-nav-toggle {
     .footer2 h2 a {
         font-size: 26px;
     }
+}
+
+p {
+    margin: 0;
 }

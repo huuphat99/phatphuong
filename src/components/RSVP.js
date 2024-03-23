@@ -9,9 +9,8 @@ function RSVP() {
           <div className="col-md-6 bg-white p-40">
             {" "}
             <span className="oliven-title-meta text-center">
-              Cùng chúc mừng hạnh phúc của tớ nhé ^^
+              Cùng chúc mừng hạnh phúc vợ chồng tớ nhé ^^
             </span>
-            <h2 className="oliven-title text-center">Hòm thư hạnh phúc</h2>
             <br />
             <div className="row mb-60">
               <div className="col-md-6">

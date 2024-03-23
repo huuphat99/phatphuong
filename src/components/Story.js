@@ -34,7 +34,7 @@ function Story() {
                           <p>
                             Tụi mình gặp nhau lần đầu tiên tại công ty NSMV, nơi mà hai đứa đang xin vào làm thực tập.
                           </p>
-                          <p>Ấn tượng đầu tiên của mình về cô ấy là cực kì trẻ con và ngố lắm.</p>
+                          <p>Ấn tượng đầu tiên của mình về cô ấy : cực kì trẻ con và ngố lắm.</p>
                           <p>
                             Ấn tượng đầu tiên của mình về anh ấy : Trẻ con, nói nhiều, hay trêu mình, hay nhờ mình dịch tiếng
                             nhật, và bắt mình dạy tiếng nhật. (Hiện tại thì vẫn thế)

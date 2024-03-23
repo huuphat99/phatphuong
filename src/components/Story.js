@@ -1,5 +1,9 @@
 import React from "react";
 import storyImage from "../assets/images/anhdoi.jpg";
+import dinhat from "../assets/images/dinhat.jpg";
+import dichoi from "../assets/images/dichoi.jpg";
+import cauhon from "../assets/images/cauhon.jpeg";
+import anhcuoi from "../assets/images/anhcuoi.jpg";
 function Story() {
   return (
     <div id="story" className="story section-padding">
@@ -76,12 +80,12 @@ Và tụi mình đã cùng nhau trải qua thử thách Yêu xa
                         </p>
                       </div>
                       <div class="img-holder">
-                        <img src={storyImage} alt="" />
+                        <img src={dinhat} alt="" />
                       </div>
                     </li>
                     <li>
                       <div class="img-holder img-holder-hideinmobile">
-                        <img src={storyImage} alt="" />
+                        <img src={dichoi} alt="" />
                       </div>
                       <div class="details">
                         <h3>Khoảng thời gian anh thực hiện lời hứa </h3>
@@ -93,7 +97,7 @@ Anh đã đưa mình đi gần như là tất cả nhũng nơi mình muốn. Ch�
                         </p>
                       </div>
                       <div class="img-holder img-show-hideinmobile">
-                        <img src={storyImage} alt="" />
+                        <img src={dichoi} alt="" />
                       </div>
                     </li>
                     <li>
@@ -102,26 +106,28 @@ Anh đã đưa mình đi gần như là tất cả nhũng nơi mình muốn. Ch�
                         <span class="date"> March 8, 2024</span>
                         <p>
                         Mình không nhớ là mình từng nói : ”Em muốn được cầu hôn”, chỉ biết là anh đã lắng nghe mong muốn của mình và thực hiện nó vào đúng ngày sinh nhật của mình. 
-Anh đưa mình đi thử nhẫn cưới, rồi teamworks với chị tư vấn lấy size ngón tay mình thành công, mà mình không hề hay biết (lúc đó mình chỉ biết là đi mua nhẫn cưới thôi, và cũng chảng nghĩ gì đến chuyện được cầu hôn ).
+                        Mặc dù thời điểm đó mọi việc chuẩn bị cho đám cưới cũng gần xong rồi. Nhưng anh vẫn làm cho mình từ bất ngờ này đến bất ngờ khác.
+Anh đưa mình đi thử nhẫn cưới, rồi teamworks với chị tư vấn lấy size ngón tay mình thành công, mà mình không hề hay biết (lúc đó mình chỉ biết là đi mua nhẫn cưới thôi, và cũng chẳng nghĩ gì đến chuyện được cầu hôn ).
 Đến khi mình bảo : “Ôi vừa tay em luôn này” - anh kể ra, mình mới biết rằng anh đã chuẩn bị cầu hôn mình từ khá lâu rồi.
 <p>Mình cảm thấy rất bất ngờ và vô cùng hạnh phúc. </p>
                         </p>
                       </div>
                       <div class="img-holder">
-                        <img src={storyImage} alt="" />
+                        <img src={cauhon} alt="" />
                       </div>
                     </li>
                     <li>
                       <div class="img-holder img-holder-hideinmobile">
-                        <img src={storyImage} alt="" />
+                        <img src={anhcuoi} alt="" />
                       </div>
                       <div class="details">
                         <h3>Chúng mình cưới nhau</h3>
                         <span class="date">March 31, 2024</span>
                         <p>
-                        Vậy là : sau 3 năm - 9 tháng 3 ngày ~ tán tỉnh - hẹn hò - tìm hiểu - yêu xa - gặp lại chúng mình sẽ có một Happy Ending - Một lễ cưới vào 31/3/2024. 
+                        Vậy là : sau 3 năm 9 tháng 3 ngày - tán tỉnh - hẹn hò - tìm hiểu - yêu xa. 
+                        <p>Cuối cùng, chúng mình chuẩn bị sẽ đi tới một Happy Ending - một lễ cưới vào 31/3/2024. </p>
 Bắt đầu cho một hành trình cùng nhau xây dựng một gia đình nhỏ xinh, cùng nhau tạo nên những điều tuyệt vời, …
-<p>Hãy đến ham dự, chung vui cùng tụi mình nhé !</p>
+<p>Hãy đến tham dự, chung vui cùng tụi mình nhé !</p>
                         </p>
                       </div>
                       <div class="img-holder img-show-hideinmobile">

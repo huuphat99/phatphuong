@@ -233,7 +233,7 @@ function Gallery() {
         aria-labelledby="exampleModalLabel"
         aria-hidden="true"
       >
-        <div className="modal-dialog modal-dialog-centered modal-lg">
+        <div className="modal-dialog modal-dialog-centered">
           <div className="modal-content">
             <div className="modal-header border-bottom-0 pb-0">
               <button
@@ -243,11 +243,11 @@ function Gallery() {
                 aria-label="Close"
               ></button>
             </div>
-            <div className="modal-body">
+            <div className="modal-body text-center">
               <img
                 src={modalImageSrc}
                 className="imagepreview"
-                style={{ width: "100%" }}
+                style={{ width: "85%" }}
               />
             </div>
           </div>

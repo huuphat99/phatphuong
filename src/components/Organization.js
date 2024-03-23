@@ -18,7 +18,7 @@ function Organization() {
           data-background="images/anhbia.jpg"
           style={{ backgroundPosition: "center" }}
         >
-          <div className="col-md-3 item-box">
+          <div className="col-md-4 item-box">
             <h2 className="custom-font numb">01</h2>
             <h6 className="title">Lễ dạm ngõ</h6>
             <p>
@@ -26,7 +26,7 @@ function Organization() {
               augue artine aringilla the at elit finibus vivera.
             </p>
           </div>
-          <div className="col-md-3 item-box">
+          <div className="col-md-4 item-box">
             <h2 className="custom-font numb">02</h2>
             <h6 className="title">Lễ ăn hỏi</h6>
             <p>
@@ -34,7 +34,7 @@ function Organization() {
               augue artine aringilla the at elit finibus vivera.
             </p>
           </div>
-          <div className="col-md-3 item-box">
+          <div className="col-md-4 item-box">
             <h2 className="custom-font numb">03</h2>
             <h6 className="title">Lễ thành hôn</h6>
             <p>

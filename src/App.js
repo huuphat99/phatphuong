@@ -38,7 +38,7 @@ function App() {
         <Gallery />
         <Where />
         <Seeyou />
-        <RSVP />
+        {/* <RSVP /> */}
         <Footer />
       </div>
     </>

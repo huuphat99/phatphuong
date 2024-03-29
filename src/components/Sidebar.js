@@ -41,14 +41,14 @@ function Sidebar() {
           <ul>
             <li>
               <a href="#home" id="homeTop">
-                Home
+                Trang chủ
               </a>
             </li>
             <li>
               <a href="#couple">Cô dâu - Chú rể</a>
             </li>
             <li>
-              <a href="#story">Our Story</a>
+              <a href="#story">Câu chuyện tình yêu</a>
             </li>
             <li>
               <a href="#organization">Thông tin</a>
